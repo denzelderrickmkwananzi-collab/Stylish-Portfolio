@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Test(Git)"
+	}
+}
