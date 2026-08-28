@@ -35,6 +35,14 @@
     border-radius: 5px;
     padding: 10px 20px;
 }
+.but1:hover{
+    background-color: rgba(0, 0, 255, 0.733);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transform: translateY(-5px);
+}
 .hero2{
     background-color: white;
     width: 100%;
@@ -53,6 +61,14 @@
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
+}
+.but2:hover{
+    background-color: rgba(0, 0, 0, 0.664);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transform: translateY(-5px);
 }
 .services-section{
     background-color: rgba(77, 186, 250, 0.836);
@@ -138,6 +154,14 @@
     border-radius: 5px;
     padding: 10px 20px;
 }
+.but3:hover {
+    background-color: rgba(0, 119, 255, 0.685);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transform: translateY(-5px);
+}
 .welcome{
     font-size: 50px;
     color: black;
@@ -214,11 +238,11 @@
     height: 300px;
 }
 .box{
-padding-left: 20px;
-padding-top:200px;
-gap:5px;
-display:flex;
-flex-direction: column;
+    padding-left: 20px;
+    padding-top:200px;
+    gap:5px;
+    display:flex;
+    flex-direction: column;
 
 }
 
@@ -247,12 +271,28 @@ h3{
     border-radius: 5px;
     padding: 10px 20px;
 }
+.but4:hover{
+    background-color: rgba(206, 206, 206, 0.733);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transform: translateY(-5px);
+}
 .but5{
     background-color: rgba(0, 0, 0, 0.904);
     color: white;
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
+}
+.but5:hover{
+    background-color: rgba(0, 0, 0, 0.664);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transform: translateY(-5px);
 }
 
 .location {
