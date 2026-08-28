@@ -41,7 +41,7 @@
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
-    transform: translateY(-5px);
+    transform: translateY(-2px);
 }
 .hero2{
     background-color: white;
@@ -160,7 +160,7 @@
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
-    transform: translateY(-5px);
+    transform: translateY(-2px);
 }
 .welcome{
     font-size: 50px;
@@ -277,7 +277,7 @@ h3{
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
-    transform: translateY(-5px);
+    transform: translateY(-2px);
 }
 .but5{
     background-color: rgba(0, 0, 0, 0.904);
@@ -292,7 +292,7 @@ h3{
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
-    transform: translateY(-5px);
+    transform: translateY(-2px);
 }
 
 .location {
