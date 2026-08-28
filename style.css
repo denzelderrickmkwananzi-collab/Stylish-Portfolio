@@ -55,6 +55,18 @@
     flex-direction: column;
     gap: 50px;
 }
+.theme{
+    font-size: 20px;
+    color: black;
+    font-family: 'poppins', serif;
+    font-weight: 300;
+}
+.sp{
+    font-size: 40px;
+    color: black;
+    font-family: 'poppins', serif;
+    font-weight: 700;
+}
 .but2{
     background-color: rgba(0, 0, 0, 0.822);
     color: white;
@@ -71,7 +83,7 @@
     transform: translateY(-5px);
 }
 .services-section{
-    background-color: rgba(77, 186, 250, 0.836);
+    background-color: rgba(0, 119, 255, 0.897);
     width: 100%;
     height: 400px;
     justify-content: center;
@@ -181,10 +193,11 @@
     overflow-y: hidden;
 }
 .port{
-    font-size: 15px;
+    font-size: 20px;
     color: yellow;
     font-family: 'poppins', serif;
-    font-weight: 400;
+    font-weight: 500;
+    overflow-y: hidden;
 }
 .projects{
     font-size: 50px;
